@@ -1,0 +1,2 @@
+# Optimal-Portfolio-Construction-
+Objective of this project  is to collect data for NIFTY 50 companies from 1st Jan 2017 to 1st April 2022, and using this data building an optimised portfolio taking 6 % risk free rate.  With final optimised portfolio we build depending on risk appetite, we allocated the 80 % of our fund to risky stock portfolio and 20 % to risk free assets. We were able to achieve 26.8 % of expected return with 15.68 % of risk. 
